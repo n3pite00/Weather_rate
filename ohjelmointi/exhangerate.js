@@ -1,6 +1,6 @@
 const url = "https://api.freecurrencyapi.com/v1/latest"
 const base_currency = 'SEK'
-const api_key = "fca_live_niRoWqx0geAgS5Qlc1rT4HkFxY8L7hrVtKSOQT0q"
+const api_key = // Apikey tekstitiedostossa
 
 const sek_input = document.querySelector('input')
 const eur_output = document.querySelector('output')
